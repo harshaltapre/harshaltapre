@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Harshal Tapre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">Hi 👋! My name is Harshal and I'm a BTech student  from Nagpur</h2>
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+
+###
 
 - 🔭 I’m currently working on **machine learning models**
 
