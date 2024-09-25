@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **harshaltapre27@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/harsh/Downloads/Profile%20(2).pdf](file:///C:/Users/harsh/Downloads/Profile%20(2).pdf)
+- 📄 Know about my experiences [file:///C:/Users/harsh/Downloads/Profile%20(2).pdf](file:///C:/Users/harsh/Downloads/Pro.pdf)
 
-- ⚡ Fun fact **I think am**
+- ⚡ Fun fact **I think am something**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
