@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **harshaltapre27@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-0h2UZL0cDOYlL6nGdK09_TMOZpj7ubW/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Z8B8-gKQALTxY4eyuuJO5hSfHZM8W7c3/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am something**
 
