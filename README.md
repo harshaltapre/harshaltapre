@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **machine learning models**
 
-- 🌱 I’m currently learning **JS, Java**
+- 🌱 I’m currently learning **Shell Scripting**
 
 - 📫 How to reach me **harshaltapre27@gmail.com**
 
