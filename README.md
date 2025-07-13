@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Harshal Tapre</h1>
 <h3 align="left">BTech Student | Machine Learning Enthusiast | Full Stack Developer</h3>
 
-<img align="right" height="200" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Coding Animation" />
-
 <h4 align="left">📍 Nagpur, India</h4>
 
 <p align="left">
