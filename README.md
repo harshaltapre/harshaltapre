@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 **BTech Electronics & Telecommunication Student** passionate about technology, hardware, and innovation
-- 🛠️ Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**, **EasyEDA**, and a bit of **KiCad**
+- 🛠️ Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**,  and a bit of **EasyEDA**
 - 📡 Experienced in building **IoT projects**, automation, sensor networks, and real-world hardware solutions
 - 🌱 Learning **Shell Scripting**, **Advanced ML Algorithms**, and expanding my electronics toolkit
 - 💡 Interested in **AI/ML**, **Web Development**, **Data Analytics**, and **Embedded Systems**
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Proteus-1B365D?style=for-the-badge" alt="Proteus"/>
   <img src="https://img.shields.io/badge/EasyEDA-FF9900?style=for-the-badge" alt="EasyEDA"/>
-  <img src="https://img.shields.io/badge/KiCad-2D82B7?style=for-the-badge" alt="KiCad"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge" alt="IoT"/>
 </p>
@@ -84,7 +83,7 @@
 - **IoT Smart Home Automation:** Arduino, sensors, cloud dashboard
 - **Wireless Sensor Network:** Multi-node, wireless comm, analytics
 - **Industrial Automation:** PLC logic, embedded control
-- **PCB Design & Simulation:** EasyEDA, KiCad, rapid prototyping
+- **PCB Design & Simulation:** EasyEDA, rapid prototyping, Reverse Engeneering 
 - **MATLAB Signal Processing:** DSP algorithms, visualization
 
 *Explore my pinned repositories for more!*
