@@ -20,7 +20,7 @@
 - 🤝 Always eager to collaborate, share, and learn new technologies!
 - 📫 Reach me at: **harshaltapre27@gmail.com**
 - 💬 Discord: **harshaltapre**
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1Z8B8-gKQALTxY4eyuuJO5hSfHZM8W7c3/view?usp=sharing)
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1JJzFZasWv63Wxbwri4kdbl9MFHlOZ04Z/view?usp=sharing)
 
 ---
 
