@@ -9,18 +9,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **BTech Electronics & Telecommunication Student** passionate about technology, hardware, and innovation
-- 🛠️ Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**,  and a bit of **EasyEDA**
-- 📡 Experienced in building **IoT projects**, automation, sensor networks, and real-world hardware solutions
-- 🌱 Learning **Shell Scripting**, **Advanced ML Algorithms**, and expanding my electronics toolkit
-- 💡 Interested in **AI/ML**, **Web Development**, **Data Analytics**, and **Embedded Systems**
-- 🏆 Completed various hardware projects, PCB designs, and automation prototypes
-- 🤝 Always eager to collaborate, share, and learn new technologies!
-- 📫 Reach me at: **harshaltapre27@gmail.com**
-- 💬 Discord: **harshaltapre**
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1JJzFZasWv63Wxbwri4kdbl9MFHlOZ04Z/view?usp=sharing)
+-  **BTech Electronics & Telecommunication Student** passionate about technology, hardware, and innovation
+-  Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**,  and a bit of **EasyEDA**
+-  Experienced in building **IoT projects**, automation, sensor networks, and real-world hardware solutions
+-  Learning **Shell Scripting**, **Advanced ML Algorithms**, and expanding my electronics toolkit
+-  Interested in **AI/ML**, **Web Development**, **Data Analytics**, **Embedded Systems**, and **Full Stack Development**
+-  Strong interest and hands-on experience in **Full Stack Development** — completed projects using **React**, **TypeScript**, **Node.js**, **Firebase**, **Supabase**, and more.
+-  Currently working on a **mega project** featuring a full stack web dashboard, combining hardware integration and real-time analytics!
+-  Completed various hardware projects, PCB designs, automation prototypes, and multiple full stack applications
+-  Always eager to collaborate, share, and learn new technologies!
+-  Reach me at: **harshaltapre27@gmail.com**
+-  Discord: **harshaltapre**
+-  Check out my [**Resume**](https://drive.google.com/file/d/1JJzFZasWv63Wxbwri4kdbl9MFHlOZ04Z/view?usp=sharing)
 
 ---
 
@@ -30,6 +32,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
@@ -43,13 +46,16 @@
   <img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge" alt="IoT"/>
 </p>
 
-### Web Development
+### Web Development & Full Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
@@ -66,6 +72,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -78,13 +85,14 @@
 
 ---
 
-## 🏗️ Featured Hardware Projects
+## 🏗️ Featured Hardware & Full Stack Projects
 
 - **IoT Smart Home Automation:** Arduino, sensors, cloud dashboard
 - **Wireless Sensor Network:** Multi-node, wireless comm, analytics
 - **Industrial Automation:** PLC logic, embedded control
-- **PCB Design & Simulation:** EasyEDA, rapid prototyping, Reverse Engeneering 
+- **PCB Design & Simulation:** EasyEDA, rapid prototyping, Reverse Engineering 
 - **MATLAB Signal Processing:** DSP algorithms, visualization
+- **Full Stack Web Dashboards:** React, TypeScript, Node.js, Firebase, Supabase — integrating real-time hardware data with analytics and control
 
 *Explore my pinned repositories for more!*
 
@@ -134,14 +142,6 @@
   </a>
 </p>
 
-
-<!--
-## 💭 Quote
-
-div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
--->
 ---
 
 <div align="center">
