@@ -18,7 +18,7 @@
 -  Interested in **AI/ML**, **Web Development**, **Data Analytics**, **Embedded Systems**, and **Full Stack Development**
 -  Strong interest and hands-on experience in **Full Stack Development** — completed projects using **React**, **TypeScript**, **Node.js**, **Firebase**, **Supabase**, and more.
 -  Currently working on a **mega project** featuring a full stack web dashboard, combining hardware integration and real-time analytics!
--  Completed various hardware projects, PCB designs, automation prototypes, and multiple full stack applications
+-  Completed various hardware projects, Basic PCB designs, automation prototypes, and multiple full stack applications
 -  Always eager to collaborate, share, and learn new technologies!
 -  Reach me at: **harshaltapre27@gmail.com**
 -  Discord: **harshaltapre**
