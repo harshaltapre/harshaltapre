@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Tapre;Electronics+%26+Telecommunication+Student;Hardware+%7C+IoT+%7C+ML+%7C+Full+Stack+Developer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Tapre;Electronics+%26+Telecommunication+Student;Data+Science+%7C+AI+%7C+Full+Stack+Developer">
 
 <h4 align="left">📍 Nagpur, India</h4>
 
@@ -11,22 +11,21 @@
 
 ## About Me
 
--  **BTech Electronics & Telecommunication Student** passionate about technology, hardware, and innovation  
--  Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**, **Jupyter**, and a bit of **EasyEDA**
--  Experienced in building **IoT projects**, automation, sensor networks, and real-world hardware solutions  
--  Learning **Shell Scripting**, **Advanced ML Algorithms** (like **Deep Learning** and **NLP**), and expanding my electronics toolkit  
--  Interested in **AI/ML**, **Web Development**, **Data Analytics**, **Embedded Systems**, and **Full Stack Development**
--  Strong interest and hands-on experience in **Full Stack Development** — completed projects using **React**, **TypeScript**, **Node.js**, **Firebase**, **Supabase**, and more.
--  Currently working on a **mega project** featuring a full stack web dashboard, combining hardware integration and real-time analytics!
--  Completed various hardware projects, Basic PCB designs, automation prototypes, and multiple full stack applications
--  Always eager to collaborate, share, and learn new technologies!
--  Reach me at: **harshaltapre27@gmail.com**
--  Discord: **harshaltapre**
--  Check out my [**Resume**](https://drive.google.com/file/d/1JJzFZasWv63Wxbwri4kdbl9MFHlOZ04Z/view?usp=sharing)
+- **BTech Electronics & Telecommunication Student** passionate about technology, innovation, and real-world problem-solving.
+- Practical experience using **Arduino IDE** and **Jupyter Notebook** for IoT and data-driven hardware projects.
+- Knowledgeable in **Thonny**, **VS Code**, **Anaconda**, **PowerPoint**, **Word**, **SQL** (MySQL), and **Ubuntu** for programming, prototyping, and project development.
+- Proficient with hardware prototyping, IoT devices, and integrating sensor data for real-time analytics and dashboards.
+- **Main focus:** **Data Science** and **Full Stack Development** — strong skills in **Python**, **NumPy**, **scikit-learn**, **Pandas**, and the entire PyData stack.
+- Highly familiar with AI/ML and productivity tools: **Figma**, **Canva**, **VLI.AI**, **Loveable**, **MFC**, **GPT**, **Bolt**, **Vercel**, **Rocket.new**, **Netlify**.
+- Able to create and integrate **Google Forms** and **Microsoft Forms** for data collection and workflows.
+- Skilled in frontend and backend frameworks: **React**, **TypeScript**, **JavaScript**, **Node.js**, **Express.js**, **Bootstrap**, **Sass**, **HTML5**, **CSS3**, **Firebase**, **Supabase** for scalable app development.
+- Continuously learning advanced topics: **Deep Learning**, **NLP**, and next-gen AI tools.
+- Always eager to collaborate, share, and explore new ideas in data science, AI, and software engineering!
+- Contact: **harshaltapre27@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 <p align="left">
@@ -35,22 +34,30 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
 </p>
 
-### Hardware & Electronics
+### Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### Hardware, IoT & Prototyping
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Proteus-1B365D?style=for-the-badge" alt="Proteus"/>
-  <img src="https://img.shields.io/badge/EasyEDA-FF9900?style=for-the-badge" alt="EasyEDA"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge" alt="IoT"/>
 </p>
 
-### Web Development & Full Stack
+### Web & Full Stack Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
@@ -61,46 +68,57 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 
-### Data Science & ML
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-### Database & Tools
+### Databases & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### Design
+### Design, Tools & Productivity
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/VLI.AI-222222?style=for-the-badge" alt="VLI.AI"/>
+  <img src="https://img.shields.io/badge/Loveable-FF69B4?style=for-the-badge" alt="Loveable"/>
+  <img src="https://img.shields.io/badge/MFC-4B0082?style=for-the-badge" alt="MFC"/>
+  <img src="https://img.shields.io/badge/GPT-A020F0?style=for-the-badge" alt="GPT"/>
+  <img src="https://img.shields.io/badge/Bolt-FFFF00?style=for-the-badge" alt="Bolt"/>
+  <img src="https://img.shields.io/badge/Google%20Forms-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Forms"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Forms-008272?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Forms"/>
+</p>
+
+### Deployment, DevOps & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Rocket.new-F7931E?style=for-the-badge" alt="Rocket.new"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</p>
+
+### IDEs, Editors & Scripting Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+  <img src="https://img.shields.io/badge/Thonny-5A5A5A?style=for-the-badge&logo=thonny&logoColor=white" alt="Thonny"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
 </p>
 
 ---
 
-## 🏗️ Featured Hardware & Full Stack Projects
+## 🏗️ Featured Projects
 
-- **IoT Smart Home Automation:** Arduino, sensors, cloud dashboard
-- **Wireless Sensor Network:** Multi-node, wireless comm, analytics
-- **Industrial Automation:** PLC logic, embedded control
-- **PCB Design & Simulation:** EasyEDA, rapid prototyping, Reverse Engineering 
-- **MATLAB Signal Processing:** DSP algorithms, visualization
-- **Full Stack Web Dashboards:** React, TypeScript, Node.js, Firebase, Supabase — integrating real-time hardware data with analytics and control
-
-**Predictive Maintenance for IoT:**  
-Trained a machine learning model (e.g., Random Forest, LSTM) using sensor data from an IoT device to predict potential hardware failures before they occur.
-
-**Real-time Anomaly Detection:**  
-Implemented an anomaly detection algorithm on live sensor data streams, integrated with a full-stack dashboard to send real-time alerts.
+- **End-to-End Data Science Projects:** Real-world datasets, EDA, ML model building, and end-user dashboard deployments.
+- **Full Stack Web Dashboards:** React, TypeScript, Node.js, Firebase, Supabase — integrating analytics and automation.
+- **IoT Analytics:** Practical IoT deployments using Python, Jupyter, and dashboards, connecting sensor data to actionable insights.
+- **Predictive Maintenance for IoT:**  
+  Trained machine learning models (e.g., Random Forest, LSTM) using IoT sensor data for hardware failure prediction.
+- **Real-time Anomaly Detection:**  
+  Deployed anomaly detection on live data streams with integrated dashboards and real-time alerts.
 
 *Explore my pinned repositories for more!*
 
