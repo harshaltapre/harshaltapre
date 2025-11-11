@@ -11,10 +11,10 @@
 
 ## About Me
 
--  **BTech Electronics & Telecommunication Student** passionate about technology, hardware, and innovation
--  Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**,  and a bit of **EasyEDA**
--  Experienced in building **IoT projects**, automation, sensor networks, and real-world hardware solutions
--  Learning **Shell Scripting**, **Advanced ML Algorithms**, and expanding my electronics toolkit
+-  **BTech Electronics & Telecommunication Student** passionate about technology, hardware, and innovation  
+-  Hands-on with **Arduino IDE**, **Proteus**, **MATLAB**, **Jupyter**, and a bit of **EasyEDA**
+-  Experienced in building **IoT projects**, automation, sensor networks, and real-world hardware solutions  
+-  Learning **Shell Scripting**, **Advanced ML Algorithms** (like **Deep Learning** and **NLP**), and expanding my electronics toolkit  
 -  Interested in **AI/ML**, **Web Development**, **Data Analytics**, **Embedded Systems**, and **Full Stack Development**
 -  Strong interest and hands-on experience in **Full Stack Development** — completed projects using **React**, **TypeScript**, **Node.js**, **Firebase**, **Supabase**, and more.
 -  Currently working on a **mega project** featuring a full stack web dashboard, combining hardware integration and real-time analytics!
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Proteus-1B365D?style=for-the-badge" alt="Proteus"/>
   <img src="https://img.shields.io/badge/EasyEDA-FF9900?style=for-the-badge" alt="EasyEDA"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge" alt="IoT"/>
 </p>
 
@@ -66,6 +67,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ### Database & Tools
@@ -93,6 +95,12 @@
 - **PCB Design & Simulation:** EasyEDA, rapid prototyping, Reverse Engineering 
 - **MATLAB Signal Processing:** DSP algorithms, visualization
 - **Full Stack Web Dashboards:** React, TypeScript, Node.js, Firebase, Supabase — integrating real-time hardware data with analytics and control
+
+**Predictive Maintenance for IoT:**  
+Trained a machine learning model (e.g., Random Forest, LSTM) using sensor data from an IoT device to predict potential hardware failures before they occur.
+
+**Real-time Anomaly Detection:**  
+Implemented an anomaly detection algorithm on live sensor data streams, integrated with a full-stack dashboard to send real-time alerts.
 
 *Explore my pinned repositories for more!*
 
