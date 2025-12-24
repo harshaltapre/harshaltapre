@@ -12,7 +12,7 @@
 ## About Me
 
 - **BTech Electronics & Telecommunication Student** passionate about technology, innovation, and real-world problem-solving.
-- Practical experience using **Arduino IDE** and **Jupyter Notebook** for IoT and data-driven hardware projects.
+- Practical experience using **Arduino IDE**, **KiCad** basic circuits desigining and **Jupyter Notebook** for IoT and data-driven hardware projects.
 - Knowledgeable in **Thonny**, **VS Code**, **Anaconda**, **PowerPoint**, **Word**, **SQL** (MySQL), and **Ubuntu** for programming, prototyping, and project development.
 - Proficient with hardware prototyping, IoT devices, and integrating sensor data for real-time analytics and dashboards.
 - **Main focus:** **Data Science** and **Full Stack Development** — strong skills in **Python**, **NumPy**, **scikit-learn**, **Pandas**, and the entire PyData stack.
@@ -50,6 +50,7 @@
 ### Hardware, IoT & Prototyping
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
   <img src="https://img.shields.io/badge/IoT-14B8A6?style=for-the-badge" alt="IoT"/>
 </p>
 
@@ -81,7 +82,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/VLI.AI-222222?style=for-the-badge" alt="VLI.AI"/>
   <img src="https://img.shields.io/badge/Loveable-FF69B4?style=for-the-badge" alt="Loveable"/>
-  <img src="https://img.shields.io/badge/MFC-4B0082?style=for-the-badge" alt="MFC"/>
   <img src="https://img.shields.io/badge/GPT-A020F0?style=for-the-badge" alt="GPT"/>
   <img src="https://img.shields.io/badge/Bolt-FFFF00?style=for-the-badge" alt="Bolt"/>
   <img src="https://img.shields.io/badge/Google%20Forms-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Forms"/>
@@ -101,6 +101,7 @@
 ### IDEs, Editors & Scripting Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+  <img src="https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
   <img src="https://img.shields.io/badge/Thonny-5A5A5A?style=for-the-badge&logo=thonny&logoColor=white" alt="Thonny"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
