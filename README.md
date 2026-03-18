@@ -1,119 +1,117 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Harshal+Tapre;Embedded+Systems+%7C+IoT+Engineer;Firmware+%7C+Electronics+Developer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshal+Tapre;Embedded+Systems+Engineer;IoT+%7C+Firmware+%7C+Electronics"> 
+<h2 align="center">Harshal Tapre</h2>
+<h4 align="center">Embedded Systems | IoT | Electronics Engineer</h4>
 
-<h4 align="left">📍 Nagpur, India</h4>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Electronics & Telecommunication Student (Final Year)
-- 🔧 Focused on **Embedded Systems, IoT, and Firmware Development**
-- ⚡ Hands-on experience in **ESP32/ESP32-S3, sensor interfacing, and real-time IoT systems**
-- 🏭 Currently working at **Swayog Energy Pvt. Ltd.**
-  - Building **solar automation systems**
-  - Developing **IoT telemetry & monitoring solutions**
-  - Working on **automated solar panel cleaning bots**
-- 📡 Strong in **MQTT, HTTP, real-time data communication & cloud integration**
-- 🧠 Final Year Project: **EVSecure**
-  - ESP32-based EV monitoring & anomaly detection system
-- 📈 Interested in **Embedded R&D, Product Development & IoT Systems**
+<p align="center">Nagpur, India</p>
 
 ---
 
-## 🛠️ Core Skills (Primary Focus)
+## Profile
 
-### 🔹 Embedded & Electronics
-- ESP32 / ESP32-S3
-- Microcontroller Programming
-- Sensor Interfacing
-- UART, I2C, SPI
-- Circuit Design (KiCad Basics)
+Final-year B.Tech Electronics and Telecommunication student with strong interest in Embedded Systems, IoT, and Firmware Development. 
 
-### 🔹 Firmware & Programming
+Hands-on experience in designing and developing real-world IoT automation systems using ESP32-based microcontrollers, sensor interfacing, and cloud-connected telemetry platforms.
+
+Currently working as an Electronics and Telecommunication Intern at Swayog Energy Pvt. Ltd., contributing to solar automation systems, including monitoring, control, and intelligent automation solutions.
+
+Focused on building practical embedded systems with real-time data processing, communication protocols, and hardware-software integration.
+
+---
+
+## Core Competencies
+
+### Embedded Systems and Electronics
+- Microcontroller Programming (ESP32, Arduino)
+- Sensor Interfacing and Signal Handling
+- Communication Protocols: UART, I2C, SPI
+- Basic Circuit Design (KiCad)
+- Hardware Prototyping and Testing
+
+### Firmware and Programming
 - C, C++, Embedded C
-- Python (for IoT & scripting)
-- Debugging & Real-time Systems
+- Python (for IoT integration and data handling)
+- Real-time data processing
+- Debugging and system-level troubleshooting
 
-### 🔹 IoT & Communication
+### IoT and Communication Systems
 - MQTT, HTTP
-- REST APIs
-- Cloud Integration (Firebase / APIs)
+- REST API integration
+- Cloud connectivity and telemetry systems
+- Real-time monitoring and automation systems
 
-### 🔹 Tools & Environment
+### Development Tools and Environment
 - Arduino IDE
 - VS Code
-- Git & GitHub
+- Git and GitHub
 - Linux (Ubuntu)
 
 ---
 
-## 📚 Currently Learning (Growth Zone 🚀)
+## Current Learning
 
-- FreeRTOS (Task scheduling, queues)
-- STM32 Development
-- Embedded Linux Basics
-- Driver-level concepts (beginner level)
-
----
-
-## 🏗️ Featured Embedded & IoT Projects
-
-### 🔥 EVSecure (Final Year Project)
-- ESP32-based EV monitoring system
-- Real-time telemetry + anomaly detection
-- Alert system for unsafe behavior
+- FreeRTOS (task scheduling, queues, multitasking)
+- STM32 microcontroller development
+- Embedded Linux fundamentals
+- Device driver concepts (introductory level)
 
 ---
 
-### ⚡ Solar IoT Automation System
-- IoT-based solar monitoring platform
-- Sensor-based data collection
-- Real-time dashboard + cloud integration
-- Automated cleaning bot system
+## Experience
+
+### Electronics and Telecommunication Intern  
+Swayog Energy Pvt. Ltd.
+
+- Worked on IoT-based solar automation systems
+- Developed telemetry solutions for real-time monitoring
+- Built automation logic for solar panel cleaning systems
+- Integrated sensors, microcontrollers, and cloud platforms
+- Contributed to mobile/web-based monitoring interfaces
+- Participated in R&D and prototype development for energy solutions
 
 ---
 
-### 📡 IoT Data Analytics Dashboard
-- Sensor data → cloud → visualization
-- Python + dashboards for real-time monitoring
+## Projects
+
+### EVSecure (Final Year Project)
+- ESP32-based electric vehicle monitoring and security system
+- Real-time telemetry and anomaly detection
+- Alert system for abnormal conditions
+
+### Solar IoT Automation System
+- IoT-based monitoring system for solar panels
+- Sensor-based data acquisition and processing
+- Cloud integration and real-time dashboard
+- Automated cleaning system logic
+
+### IoT Data Monitoring and Analytics
+- Sensor data acquisition and visualization
+- Python-based dashboards for monitoring and analysis
+- Real-time data handling and alert systems
 
 ---
 
-## 💡 Additional Skills (Secondary)
+## Additional Skills
 
-*(Support skills — not primary focus)*
-
-### 🌐 Development & Software
+### Software and Web Development (Supporting Skills)
+- JavaScript, TypeScript
 - React, Node.js, Express.js
-- HTML, CSS, JavaScript
+- HTML, CSS
 - Firebase, Supabase
 
-### 📊 Data & ML (Basic)
-- NumPy, Pandas, scikit-learn
-- Data preprocessing & visualization
+### Data and Analytics (Basic Level)
+- NumPy, Pandas
+- scikit-learn
+- Data visualization and preprocessing
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaltapre&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltapre&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
+Email: harshaltapre27@gmail.com  
+LinkedIn: https://linkedin.com/in/harshal-tapre
 
 ---
 
-## 🤝 Connect With Me
+## Objective
 
-<p align="center">
-  <a href="https://linkedin.com/in/harshal-tapre" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:harshaltapre27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ *Focused on building real-world embedded and IoT solutions — open to entry-level Embedded / Firmware / IoT roles.*
+Seeking entry-level opportunities in Embedded Systems, Firmware Development, and IoT Engineering where I can apply my practical experience, improve my system-level understanding, and contribute to real-world product development.
