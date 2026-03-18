@@ -12,15 +12,29 @@ Final-year Electronics and Telecommunication Engineering student focused on embe
 
 Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and automation systems. Actively studying RTOS and Linux drivers to grow toward production-grade embedded engineering.
 
+Experience includes building complete systems combining embedded firmware, IoT communication, and full-stack software integration.
+
 ---
 
 ## Engineering Focus
 
-- Embedded firmware development for microcontroller-based systems
-- Sensor interfacing and data acquisition over I2C, SPI, and UART
-- IoT communication pipelines using MQTT and REST
-- Real-world automation logic for energy and monitoring applications
-- Hardware-software integration from bare-metal to cloud dashboard
+- Embedded firmware development for ESP32-based systems
+- Sensor interfacing using I2C, SPI, UART, and ADC peripherals
+- Real-time telemetry pipelines using MQTT and HTTP protocols
+- IoT automation systems for energy monitoring and control
+- End-to-end system design: hardware → firmware → cloud → dashboard
+- Integration of embedded devices with full-stack applications
+
+---
+
+## System-Level Capabilities
+
+- Designed complete IoT systems from sensor acquisition to cloud dashboards
+- Implemented telemetry pipelines with structured JSON payloads over MQTT
+- Integrated embedded devices with web and mobile applications using REST APIs
+- Built automation logic for real-world systems — solar monitoring and automated control
+- Developed full-stack interfaces for device monitoring and control
+- Combined hardware design, firmware development, and software integration in single systems
 
 ---
 
@@ -33,6 +47,7 @@ Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and
 ### Embedded and Electronics
 
 ![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat-square&logo=espressif&logoColor=white)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-003B57?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![8051](https://img.shields.io/badge/8051-555555?style=flat-square)
@@ -40,6 +55,7 @@ Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and
 ![UART](https://img.shields.io/badge/UART-4A90D9?style=flat-square)
 ![I2C](https://img.shields.io/badge/I2C-4A90D9?style=flat-square)
 ![SPI](https://img.shields.io/badge/SPI-4A90D9?style=flat-square)
+![ADC](https://img.shields.io/badge/ADC-4A90D9?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660099?style=flat-square&logo=mqtt&logoColor=white)
 ![HTTP REST](https://img.shields.io/badge/HTTP%20REST-005C84?style=flat-square)
 
@@ -57,10 +73,22 @@ Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Hardware capabilities:**
+- Sensor interfacing: I2C, SPI, UART, ADC-based analog sensors
+- SPI-based displays and peripheral devices
+- Firmware debugging and real-time data handling
+- PCB design and hardware prototyping with KiCad
+
 </td>
 <td valign="top" width="50%">
 
-### Data and Automation
+### IoT and Automation Stack
+
+![MQTT](https://img.shields.io/badge/MQTT-660099?style=flat-square&logo=mqtt&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5A14?style=flat-square)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![HTTP REST](https://img.shields.io/badge/HTTP%20REST-005C84?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -68,16 +96,14 @@ Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Applied in embedded and IoT context:**
-- Sensor data cleaning and preprocessing
-- Time-series analysis for energy parameter trends
-- Anomaly detection on telemetry streams
-- Automating decisions from sensor thresholds via Node-RED
-- Visualizing MQTT payload logs with Python
+- Real-time telemetry and device communication over MQTT
+- REST API integration between devices and backend systems
+- Automation logic for physical systems (solar energy applications)
+- Sensor data analysis and time-series visualization with Python
 
 </td>
 </tr>
@@ -89,17 +115,19 @@ Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and
 
 ### IoT-Based Solar Energy Monitoring and Automation System
 
-`ESP32` `MQTT` `Mosquitto` `Node-RED` `I2C` `Python`
+`ESP32` `MQTT` `Mosquitto` `Node-RED` `I2C` `ADC` `REST API` `Python`
 
-ESP32-based system designed for real-world solar installations.
+ESP32-based end-to-end system deployed for real-world solar monitoring.
 
-- Acquired voltage, current, and environmental sensor data
-- Implemented MQTT-based telemetry using Mosquitto broker
-- Built Node-RED flows for real-time monitoring and automation
-- Designed logic for automated solar panel cleaning triggers
-- Ensured reliable communication using reconnect handling and QoS mechanisms
+- Acquired voltage, current, and environmental data using I2C sensors and ADC
+- Implemented MQTT-based telemetry with structured JSON payloads to Mosquitto broker
+- Built Node-RED automation workflows for monitoring and control logic
+- Designed automation system for solar panel cleaning triggers based on sensor thresholds
+- Integrated device with backend systems and dashboards via REST APIs
+- Developed full-stack web interface for real-time device monitoring and control
+- Ensured reliability using reconnect logic, QoS levels, and fail-safe handling
 
-Focus: reliability, real-time monitoring, and deployable automation
+Focus: real-world deployment, automation, and system reliability
 
 ---
 
@@ -107,7 +135,15 @@ Focus: reliability, real-time monitoring, and deployable automation
 
 `KiCad` `ESP32-WROOM` `ACS712` `DHT22` `LDO Regulation`
 
-Two-layer PCB designed for standalone field deployment. Integrates 3.3V power regulation, ESP32 module footprint, screw terminal connectors, and sensor pads for current and temperature measurement. Full DRC clearance with EMI-conscious layout before prototyping.
+Two-layer PCB designed for standalone field deployment in energy monitoring applications.
+
+- Integrated ACS712 current sensor and DHT22 temperature/humidity sensor on a single board
+- Designed 3.3V LDO power regulation circuit for stable ESP32-WROOM supply
+- Added screw terminal connectors for field wiring and direct sensor connections
+- Placed dedicated pads for voltage divider circuit for AC/DC voltage sensing
+- Passed full DRC in KiCad with EMI-conscious component placement and trace routing
+
+Focus: compact, deployable hardware with all acquisition peripherals on one board
 
 ---
 
@@ -122,10 +158,11 @@ Dual-channel communication system — ESP32 publishes live sensor readings over 
 ## What I Build
 
 - Embedded firmware for ESP32-based systems
-- Sensor-driven data acquisition systems
+- Sensor-driven data acquisition systems using I2C, SPI, UART, and ADC
 - IoT telemetry pipelines using MQTT and REST
 - Automation systems for real-world applications — energy monitoring, control, and remote management
-- Hardware-software integrated solutions with cloud dashboards
+- Full-stack interfaces for real-time device monitoring and control
+- Hardware-software integrated solutions from bare-metal to cloud dashboard
 
 ---
 
