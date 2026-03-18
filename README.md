@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=190&section=header&text=Embedded%20Systems%20%26%20IoT%20Engineer&fontSize=30&fontColor=00b4d8&fontAlignY=40&desc=Final-Year%20E%26TC%20%7C%20Microcontrollers%20%7C%20IoT%20Protocols%20%7C%20PCB%20Design&descSize=14&descAlignY=62&descColor=90e0ef&animation=fadeIn" width="100%" />
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=190&section=header&text=Embedded%20Systems%20%26%20IoT%20Engineer&fontSize=30&fontColor=00b4d8&fontAlignY=40&desc=Final-Year%20E%26TC%20%7C%20Microcontrollers%20%7C%20IoT%20Protocols%20%7C%20PCB%20Design&descSize=14&descAlignY=62&descColor=90e0ef&animation=fadeIn" width="100%" /> </div>
 
 ---
 
