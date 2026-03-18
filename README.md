@@ -1,6 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshal+Tapre;Embedded+Systems+Engineer;IoT+%7C+Firmware+%7C+Electronics"> 
-<h2 align="center">Harshal Tapre</h2>
-<h4 align="center">Embedded Systems | IoT | Electronics Engineer</h4>
 
 <p align="center">Nagpur, India</p>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Tapre;Electronics+%26+Telecommunication+Student;Data+Science+%7C+AI+%7C+Full+Stack+Developer">
