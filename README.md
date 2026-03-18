@@ -6,9 +6,21 @@
 
 ---
 
+## Profile
+
 Final-year Electronics and Telecommunication Engineering student focused on embedded firmware, IoT automation, and hardware-software integration. I build reliable firmware for microcontrollers, interface sensors and peripherals, and design IoT pipelines that connect hardware to cloud and mobile platforms.
 
-Currently working at **Swayog Energy** on IoT-driven energy monitoring systems. Actively studying RTOS and Linux drivers to grow toward production-grade embedded engineering.
+Currently working at **Swayog Energy** on IoT-driven solar energy monitoring and automation systems. Actively studying RTOS and Linux drivers to grow toward production-grade embedded engineering.
+
+---
+
+## Engineering Focus
+
+- Embedded firmware development for microcontroller-based systems
+- Sensor interfacing and data acquisition over I2C, SPI, and UART
+- IoT communication pipelines using MQTT and REST
+- Real-world automation logic for energy and monitoring applications
+- Hardware-software integration from bare-metal to cloud dashboard
 
 ---
 
@@ -29,11 +41,12 @@ Currently working at **Swayog Energy** on IoT-driven energy monitoring systems. 
 ![I2C](https://img.shields.io/badge/I2C-4A90D9?style=flat-square)
 ![SPI](https://img.shields.io/badge/SPI-4A90D9?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660099?style=flat-square&logo=mqtt&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP%20REST-005C84?style=flat-square)
+![HTTP REST](https://img.shields.io/badge/HTTP%20REST-005C84?style=flat-square)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-2C3E50?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1B2A6B?style=flat-square)
@@ -42,48 +55,55 @@ Currently working at **Swayog Energy** on IoT-driven energy monitoring systems. 
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-### Data and Analytics
+### Data and Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Applied in IoT context:**
+**Applied in embedded and IoT context:**
 - Sensor data cleaning and preprocessing
 - Time-series analysis for energy parameter trends
 - Anomaly detection on telemetry streams
+- Automating decisions from sensor thresholds via Node-RED
 - Visualizing MQTT payload logs with Python
 
 </td>
 </tr>
 </table>
 
-**Common tools:** Git &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; GitHub
-
 ---
 
 ## Projects
 
-### 1. IoT Energy Parameter Monitoring System
+### IoT-Based Solar Energy Monitoring and Automation System
 
-`ESP32` `MQTT` `Mosquitto` `Node-RED` `Python` `I2C`
+`ESP32` `MQTT` `Mosquitto` `Node-RED` `I2C` `Python`
 
-Full IoT pipeline for real-time electrical monitoring. ESP32 samples sensor data, structures JSON payloads, and publishes to an MQTT broker. Node-RED routes data to a live dashboard. Includes reconnection logic, heartbeat messages, and QoS 1 delivery with retained-message recovery.
+ESP32-based system designed for real-world solar installations.
+
+- Acquired voltage, current, and environmental sensor data
+- Implemented MQTT-based telemetry using Mosquitto broker
+- Built Node-RED flows for real-time monitoring and automation
+- Designed logic for automated solar panel cleaning triggers
+- Ensured reliable communication using reconnect handling and QoS mechanisms
+
+Focus: reliability, real-time monitoring, and deployable automation
 
 ---
 
-### 2. Custom PCB — Sensor Acquisition Node
+### Custom PCB — Sensor Acquisition Node
 
 `KiCad` `ESP32-WROOM` `ACS712` `DHT22` `LDO Regulation`
 
@@ -91,11 +111,21 @@ Two-layer PCB designed for standalone field deployment. Integrates 3.3V power re
 
 ---
 
-### 3. ESP32 to Mobile App via REST and MQTT
+### ESP32 to Mobile App via REST and MQTT
 
 `ESP32` `HTTP POST` `MQTT` `Android`
 
-Dual-channel communication system — ESP32 publishes live readings over MQTT for real-time display and sends periodic summaries via HTTP POST to a backend. Mobile interface consumes both channels. Emphasis on a clean device-side API layer that decouples hardware from application logic.
+Dual-channel communication system — ESP32 publishes live sensor readings over MQTT for real-time display and sends periodic summaries via HTTP POST to a backend endpoint. Mobile interface consumes both channels. Emphasis on a clean device-side API layer that decouples hardware from application logic.
+
+---
+
+## What I Build
+
+- Embedded firmware for ESP32-based systems
+- Sensor-driven data acquisition systems
+- IoT telemetry pipelines using MQTT and REST
+- Automation systems for real-world applications — energy monitoring, control, and remote management
+- Hardware-software integrated solutions with cloud dashboards
 
 ---
 
@@ -106,13 +136,23 @@ Dual-channel communication system — ESP32 publishes live readings over MQTT fo
 | FreeRTOS | Task scheduling, semaphores, queues, interrupt-safe IPC on ESP32 via ESP-IDF |
 | Linux Drivers | Character device model, sysfs, kernel-userspace interface — following LDD3 |
 | ESP-IDF Native | Moving beyond Arduino abstraction for direct RTOS and BLE/Wi-Fi stack control |
-| Bare-Metal Protocols | Bit-bang I2C and SPI implementation to understand hardware timing independently |
+| Bare-Metal Protocols | Bit-bang I2C and SPI to understand hardware timing without library abstraction |
+
+---
+
+## Engineering Approach
+
+- Prefer structured firmware over quick scripts
+- Focus on system reliability and communication stability
+- Design with real deployment constraints in mind
+- Separate hardware logic and communication layers for scalability
+- Continuously improving toward RTOS-based and production-grade systems
 
 ---
 
 ## Goal
 
-Embedded firmware engineer working on systems where hardware reliability and software correctness are both critical — energy electronics, industrial IoT, or automotive embedded. Building toward production firmware with RTOS concurrency, clean protocol design, and solid hardware abstraction.
+To work as an embedded firmware engineer on systems where hardware reliability and software correctness are both critical — energy electronics, industrial IoT, or automotive embedded. Building toward production firmware with RTOS concurrency, clean protocol design, and solid hardware abstraction.
 
 ---
 
